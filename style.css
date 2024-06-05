@@ -22,3 +22,6 @@ ul li {
     list-style: none;
 }
 
+.ferdig {
+    text-decoration: line-through;
+}
